@@ -17,4 +17,4 @@ nav_order: 3
 </div>
 
 ## Notes
-The search for Eden
+The Quest for Eden
