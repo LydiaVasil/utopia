@@ -19,5 +19,12 @@ An interdisciplinary course exploring utopian thought, history, and its connecti
 - Each lesson includes a video and notes
 - Optional quiz at the end of each lesson (coming soon)
 
-## Start here
-Go to **Lessons** in the sidebar and begin with **Lesson 1**.
+## Start here  
+Go to Lessons in the sidebar and begin with Lesson 1.
+
+<p>
+  <a class="btn btn-primary" href="{{ '/enroll' | relative_url }}">
+    Register / Enroll
+  </a>
+</p>
+
