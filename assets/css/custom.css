@@ -82,3 +82,105 @@ hr {
 body {
   font-family: 'Source Sans Pro', sans-serif;
 }
+/* --- Dark theme polish --- */
+
+/* Background + base text */
+body {
+  background: #0b0f14;
+  color: rgba(255,255,255,0.88);
+}
+
+/* Main content area */
+.main-content {
+  background: transparent;
+}
+
+/* Links */
+a {
+  color: rgba(255,255,255,0.92);
+}
+a:hover {
+  color: rgba(255,255,255,1);
+}
+
+/* Sidebar */
+.side-bar {
+  background: #070a0f;
+  border-right: 1px solid rgba(255,255,255,0.08);
+}
+.site-title, .site-title:hover {
+  color: rgba(255,255,255,0.95);
+}
+.nav-list .nav-list-item .nav-list-link {
+  color: rgba(255,255,255,0.78);
+}
+.nav-list .nav-list-item .nav-list-link:hover,
+.nav-list .nav-list-item.active > .nav-list-link {
+  color: rgba(255,255,255,0.98);
+}
+
+/* Buttons */
+.btn, .btn-primary {
+  border-radius: 12px;
+}
+.btn {
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.12);
+  color: rgba(255,255,255,0.92);
+}
+.btn:hover {
+  background: rgba(255,255,255,0.12);
+}
+
+.btn-primary {
+  background: rgba(255,255,255,0.92);
+  border: 1px solid rgba(255,255,255,0.92);
+  color: #0b0f14;
+}
+.btn-primary:hover {
+  background: rgba(255,255,255,1);
+  border-color: rgba(255,255,255,1);
+}
+
+/* Card grid for playlists/episodes */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.9rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.yt-card {
+  display: block;
+  padding: 1rem 1rem;
+  border-radius: 16px;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.10);
+  text-decoration: none;
+  transition: transform 0.12s ease, border-color 0.12s ease, background 0.12s ease;
+}
+
+.yt-card:hover {
+  transform: translateY(-2px);
+  background: rgba(255,255,255,0.085);
+  border-color: rgba(255,255,255,0.18);
+}
+
+.yt-card-title {
+  font-weight: 650;
+  line-height: 1.25;
+  margin-bottom: 0.35rem;
+}
+
+.yt-card-meta {
+  font-size: 0.95rem;
+  color: rgba(255,255,255,0.70);
+}
+
+/* Mobile */
+@media (max-width: 900px) {
+  .card-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 620px) {
+  .card-grid { grid-template-columns: 1fr; }
+}
