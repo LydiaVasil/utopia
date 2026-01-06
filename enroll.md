@@ -11,8 +11,8 @@ Enrollment for **የዩቶፕያ እሳቤዎች በመጽሓፍ ቅዱስ (Utop
 ## Join the waitlist
 Click below to register your interest:
 
-<a class="btn btn-primary" href="PASTE_REGISTRATION_LINK_HERE" target="_blank" rel="noopener">
-  Register for the Course
+<a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLScn_l0wPZAjRa-IPayFY8H25Uao0GucrSwA2NU-zNkFdD5TSw/viewform?usp=publish-editor" target="_blank" rel="noopener">
+  Register / Enroll
 </a>
 
 ## Questions?
