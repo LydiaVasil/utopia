@@ -1,6 +1,9 @@
 title: "Utopia"
-description: "Video lessons and resources from Dr. Mmeskerem Lechisa "
-theme: just-the-docs
+description: "Video lessons and resources from Dr. Mmeskerem Lechisa"
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
 
 # Because this is a project site (repo is /utopia)
 baseurl: "/utopia"
@@ -14,3 +17,4 @@ collections:
 just_the_docs:
   search_enabled: true
   navigation_sort: case_insensitive
+  footer_content: "© 2025 Meskerem Lechisa"
