@@ -1,0 +1,34 @@
+/* --- Utopia custom styling overrides --- */
+
+/* Make the content a bit wider (better for embedded videos) */
+.main-content {
+  max-width: 980px;
+}
+
+/* Improve typography */
+.main-content h1, .main-content h2, .main-content h3 {
+  letter-spacing: -0.02em;
+}
+
+.main-content p, .main-content li {
+  line-height: 1.6;
+  font-size: 1.03rem;
+}
+
+/* Sidebar tweaks */
+.side-bar {
+  font-size: 0.98rem;
+}
+
+/* Make iframe embeds responsive */
+.main-content iframe {
+  max-width: 100%;
+}
+
+/* Optional: nicer callouts */
+.note {
+  border-left: 4px solid #999;
+  padding: 0.75rem 1rem;
+  background: rgba(0,0,0,0.03);
+  border-radius: 8px;
+}
