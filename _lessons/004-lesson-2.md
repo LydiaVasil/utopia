@@ -17,4 +17,4 @@ nav_order: 6
 </div>
 
 ## Notes
-(Add notes here)
+The garden of Eden as Utopia
