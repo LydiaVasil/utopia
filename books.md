@@ -32,3 +32,24 @@ An amharic historical study of Tommaso Campanella’s City of the Sun (1603), ex
 
 ---
 
+## 📗 ደቂቀ እስጢፋ (ታላቁ የታሪክ ዓመፅ ሲጋለጥ)
+
+**Author:** Dr. Meskerem Lechisa  
+- **Mereb:** [Buy on Mereb](https://www.mereb.shop/rs/?prodet=true&pid=12738916&vid=89&srsltid=AfmBOorV17Yo4vIYWkxom_kEac-qC8d-CtEoWX722st6nQCS-QyxNC69)
+
+  
+## የፀሓይ ከተማ መጽሓፍ ምረቃ
+
+<div class="card-grid">
+
+  <a class="yt-card" href="https://youtu.be/_I4sC8Rahzw?si=UPjmMqDq5Cw_L2yc" target="_blank" rel="noopener">
+    <div class="yt-card-title">ዶ/ር መስከረም ለቺሣ “የፀሓይ ከተማ” መጽሓፍ ምረቃ- ክፍል 1</div>
+    <div class="yt-card-meta">Episode</div>
+  </a>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_I4sC8Rahzw?si=XazRYt_omg8B626z&amp;start=1769" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+  
+---
+
