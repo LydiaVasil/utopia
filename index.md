@@ -3,11 +3,18 @@ layout: default
 title: Home
 nav_order: 1
 ---
+
+# የዩቶፕያ እሳቤዎች በመጽሐፍ ቅዱስ (Utopian Thoughts in the Bible)
+
+An interdisciplinary course exploring utopian thought in the Bible and its connections to theology, history, education, and civilization.
+
+Welcome to Utopia Media website.
+
 <div class="hero">
   <div class="hero-left">
-    <h1>Utopian Studies</h1>
+    <h2>Utopian Studies</h2>
     <p class="hero-sub">
-      የዩቶፕያ እሳቤዎች በመጽሐፍ ቅዱስ (Utopian Thoughts in the Bible)
+      Explore the course lessons in order, or register to receive updates and access information.
     </p>
 
     <div class="hero-actions">
@@ -17,29 +24,21 @@ nav_order: 1
   </div>
 
   <div class="hero-right">
-    <img src="{{ '/assets/images/dr.meskeremspeechpic.png' | relative_url }}"
+    <!-- Add hero image later -->
+    <!-- <img src="{{ '/assets/images/meskerem-hero.jpg' | relative_url }}"
          alt="Dr. Meskerem Lechisa Debele"
-         class="hero-photo">
+         class="hero-photo"> -->
   </div>
 </div>
 
-<div class="photo-strip">
-  <img src="{{ '/assets/images/dr.meskeremspeechpic.png' | relative_url }}" alt="Dr. Meskerem">
-  <img src="{{ '/assets/images/ drmeskeremgraduationpresentation.png' | relative_url }}" alt="Dr. Meskerem">
- </div>
+- Go to **[Lessons]({{ '/lessons' | relative_url }})** for the course sequence  
+- Go to **[Other Videos]({{ '/other-videos' | relative_url }})** for older/standalone videos  
 
-# የዩቶፕያ እሳቤዎች በመጽሓፍ ቅዱስ (Utopian Thoughts in the Bible)
-
-An interdisciplinary course exploring utopian thought in the Bible and its connections to theology, history, education, and civilization.
-
-Welcome to Utopia Media website.
-
-
-- Go to **Lessons** for the course sequence
-- Go to **Other Videos** for older/standalone videos
 <p>
-  <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLScn_l0wPZAjRa-IPayFY8H25Uao0GucrSwA2NU-zNkFdD5TSw/viewform?usp=publish-editor" target="_blank" rel="noopener">
-  Register / Enroll
-</a>
+  <a class="btn btn-primary"
+     href="https://docs.google.com/forms/d/e/1FAIpQLScn_l0wPZAjRa-IPayFY8H25Uao0GucrSwA2NU-zNkFdD5TSw/viewform?usp=publish-editor"
+     target="_blank"
+     rel="noopener">
+    Register / Enroll
+  </a>
 </p>
-
