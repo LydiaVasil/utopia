@@ -25,8 +25,8 @@ Welcome to Utopia Media website.
 
   <div class="hero-right">
     <!-- Add hero image later -->
-    <!-- <img src="{{ '/assets/images/meskerem-hero.jpg' | relative_url }}"
-         alt="Dr. Meskerem Lechisa Debele"
+    <!-- <img src="{{ '/assets/images/dr.meskeremspeechpic.png' | relative_url }}"
+         alt="Dr. Meskerem Lechisa"
          class="hero-photo"> -->
   </div>
 </div>
