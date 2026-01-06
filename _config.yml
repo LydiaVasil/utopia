@@ -1,0 +1,16 @@
+title: "Utopia"
+description: "Video lessons and resources from Dr. Mmeskerem Lechisa "
+theme: just-the-docs
+
+# Because this is a project site (repo is /utopia)
+baseurl: "/utopia"
+url: "https://lydiavasil.github.io"
+
+collections:
+  lessons:
+    output: true
+    permalink: /lessons/:name/
+
+just_the_docs:
+  search_enabled: true
+  navigation_sort: case_insensitive
