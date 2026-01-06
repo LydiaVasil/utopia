@@ -251,3 +251,7 @@ a:hover {
     max-width: 100%;
   }
 }
+/* --- Hide Just the Docs default footer credit --- */
+.footer-content {
+  display: none;
+}
