@@ -56,6 +56,25 @@ Playlists and selected episodes that are **not part of the course lesson sequenc
   </a>
 
 </div>
+---
 
+## Featured Interviews
 
+<div class="card-grid">
+
+  <a class="yt-card" href="https://youtu.be/Nw00V-3Omxw?si=CvohJQBVDhb7FZxL" target="_blank" rel="noopener">
+    <div class="yt-card-title">"እነሱ ይፈርሳሉ እንጂ ቤተክርስቲያን አትፈርስም"  ዶ/ር መስከረም ለቺሳ</div>
+    <div class="yt-card-meta">Episode</div>
+  </a>
+
+  <a class="yt-card" href="https://youtu.be/FfAOBU4GwmU?si=XJLcfxHxKH3WT4Rz" target="_blank" rel="noopener">
+    <div class="yt-card-title">“የሰው አገር አምላክ የምናመልከው ማን እዳ ስለጣለብን ነው?” (ቆይታ ከመስከረም ለቺሣ (ዶ/ር) ጋር)</div>
+    <div class="yt-card-meta">Episode</div>
+  </a>
+
+  <a class="yt-card" href="https://youtu.be/lfwJDB23QKc?si=QHf0xJDw_q0zCKKk" target="_blank" rel="noopener">
+    <div class="yt-card-title">“ፈላስፋው ሔሮዲተስ ኢትዮጵያን የፍትህ ሀገር ይላታል"በዶ/ር መስከረም ለቺሳ</div>
+    <div class="yt-card-meta">Episode</div>
+  </a>
+ 
 </div>
