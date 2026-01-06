@@ -234,3 +234,20 @@ a:hover {
 .site-header {
   border-bottom: 2px solid var(--c-accent);
 }
+/* --- Reduce search bar size --- */
+
+/* Limit search width */
+.search {
+  max-width: 70%;
+}
+
+/* Slightly reduce input height and font */
+.search-input {
+  font-size: 0.92rem;
+  padding: 0.35rem 0.55rem;
+}
+@media (max-width: 760px) {
+  .search {
+    max-width: 100%;
+  }
+}
