@@ -3,6 +3,30 @@ layout: default
 title: Home
 nav_order: 1
 ---
+<div class="hero">
+  <div class="hero-left">
+    <h1>Utopian Studies</h1>
+    <p class="hero-sub">
+      የዩቶፕያ እሳቤዎች በመጽሐፍ ቅዱስ (Utopian Thoughts in the Bible)
+    </p>
+
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="{{ '/course' | relative_url }}">View the Course</a>
+      <a class="btn" href="{{ '/enroll' | relative_url }}">Register / Enroll</a>
+    </div>
+  </div>
+
+  <div class="hero-right">
+    <img src="{{ '/assets/images/dr.meskeremspeechpic.png' | relative_url }}"
+         alt="Dr. Meskerem Lechisa Debele"
+         class="hero-photo">
+  </div>
+</div>
+
+<div class="photo-strip">
+  <img src="{{ '/assets/images/dr.meskeremspeechpic.png' | relative_url }}" alt="Dr. Meskerem">
+  <img src="{{ '/assets/images/ drmeskeremgraduationpresentation.png' | relative_url }}" alt="Dr. Meskerem">
+ </div>
 
 # የዩቶፕያ እሳቤዎች በመጽሓፍ ቅዱስ (Utopian Thoughts in the Bible)
 
