@@ -1,39 +1,80 @@
 ---
 layout: default
 title: Other Videos
-nav_order: 7
+nav_order: 8
 ---
 
 # Other Videos
 
-These are videos that are **not part of the course sequence**.
+Playlists and selected episodes that are **not part of the course lesson sequence**.
 
-## Playlists
+<div class="card-grid">
 
-### 1) ደቂቀ እስጢፋ
-- [Open playlist on YouTube](https://youtube.com/playlist?list=PLvwPosBw4ofLVZ3-1gBxi-rw5LjdQjeCX&si=rWYkrvEAo4JxYOFN)
+  <a class="yt-card" href="https://youtube.com/playlist?list=PLvwPosBw4ofLVZ3-1gBxi-rw5LjdQjeCX&si=rWYkrvEAo4JxYOFN" target="_blank" rel="noopener">
+    <div class="yt-card-title">ደቂቀ እስጢፋ</div>
+    <div class="yt-card-meta">Playlist</div>
+  </a>
 
-### 2) ስለ ኢትዮጵያዊው የትምህርት ሥርዓት
-- [Open playlist on YouTube](https://youtube.com/playlist?list=PLvwPosBw4ofLIfFWl1WalTplZj_d_-T01&si=yykR6vSAMiE0zhBn)
+  <a class="yt-card" href="https://youtube.com/playlist?list=PLvwPosBw4ofLIfFWl1WalTplZj_d_-T01&si=yykR6vSAMiE0zhBn" target="_blank" rel="noopener">
+    <div class="yt-card-title">ስለ ኢትዮጵያዊው የትምህርት ሥርዓት</div>
+    <div class="yt-card-meta">Playlist</div>
+  </a>
 
-### 3) (ግ)ኖስቲሲዝም እና ሔርሜቲሲዝም (Gnosticism)
-- [Open playlist on YouTube](https://youtube.com/playlist?list=PLvwPosBw4ofKNHsQkLdh0GqeHn6mpm_xr&si=xiSTMPCLO1mCmENb)
+  <a class="yt-card" href="https://youtube.com/playlist?list=PLvwPosBw4ofKNHsQkLdh0GqeHn6mpm_xr&si=xiSTMPCLO1mCmENb" target="_blank" rel="noopener">
+    <div class="yt-card-title">(ግ)ኖስቲሲዝም እና ሔርሜቲሲዝም (Gnosticism)</div>
+    <div class="yt-card-meta">Playlist</div>
+  </a>
 
-### 4) የኢትዮጵያ ትንሣኤ እሳቤዎች
-- [Open playlist on YouTube](https://youtube.com/playlist?list=PLvwPosBw4ofI3ISnPbUymTSXGTrENVzns&si=kTtritd9ULH2BfcN)
+  <a class="yt-card" href="https://youtube.com/playlist?list=PLvwPosBw4ofI3ISnPbUymTSXGTrENVzns&si=kTtritd9ULH2BfcN" target="_blank" rel="noopener">
+    <div class="yt-card-title">የኢትዮጵያ ትንሣኤ እሳቤዎች</div>
+    <div class="yt-card-meta">Playlist</div>
+  </a>
 
-### 5) የኢትዮጵያዊነት ማንነት ንጥቂያዎች
-- [Open playlist on YouTube](https://youtube.com/playlist?list=PLvwPosBw4ofLkfSpyS01f46EKQanT1z-F&si=cgS54ZsPDfBOy9LM)
+  <a class="yt-card" href="https://youtube.com/playlist?list=PLvwPosBw4ofLkfSpyS01f46EKQanT1z-F&si=cgS54ZsPDfBOy9LM" target="_blank" rel="noopener">
+    <div class="yt-card-title">የኢትዮጵያዊነት ማንነት ንጥቂያዎች</div>
+    <div class="yt-card-meta">Playlist</div>
+  </a>
 
-### 6) የጽዮን ሽማግሌዎች ፕሮቶኮል (Protocols of the Learned Elders of Zion)
-- [Open playlist on YouTube](https://youtube.com/playlist?list=PLvwPosBw4ofLF79pYa7aJwgLf1V7fqcd7&si=9YhR4PR6BCl3C4Bt)
+  <a class="yt-card" href="https://youtube.com/playlist?list=PLvwPosBw4ofLF79pYa7aJwgLf1V7fqcd7&si=9YhR4PR6BCl3C4Bt" target="_blank" rel="noopener">
+    <div class="yt-card-title">የጽዮን ሽማግሌዎች ፕሮቶኮል (Protocols of the Learned Elders of Zion)</div>
+    <div class="yt-card-meta">Playlist</div>
+  </a>
 
-### 7) English and Hebrew Episodes
-- [Open playlist on YouTube](https://youtube.com/playlist?list=PLvwPosBw4ofID9JAL8373w3z7WyupRxvV&si=7u4guLyG_y_6OdVP)
+  <a class="yt-card" href="https://youtube.com/playlist?list=PLvwPosBw4ofID9JAL8373w3z7WyupRxvV&si=7u4guLyG_y_6OdVP" target="_blank" rel="noopener">
+    <div class="yt-card-title">English Episodes</div>
+    <div class="yt-card-meta">Playlist</div>
+  </a>
+  
+  <a class="yt-card" href="https://youtube.com/playlist?list=PLvwPosBw4ofKk1CJEr1wyDR41UEpdL8Rn&si=_IhVp7qmghVXQ5Sj" target="_blank" rel="noopener">
+    <div class="yt-card-title">ኢትዮጵያ - አገረ እግዚአብሔር</div>
+    <div class="yt-card-meta">Playlist</div>
+  </a>
+  
+  <a class="yt-card" href="https://youtube.com/playlist?list=PLvwPosBw4ofJ0rOO_L7ukNglpRuUiY3tR&si=BnhxQVlVBxjWgLKe" target="_blank" rel="noopener">
+    <div class="yt-card-title">ቅድስት ቤተ ክርስቲያን</div>
+    <div class="yt-card-meta">Playlist</div>
+  </a>
 
+</div>
+---
 
-### 8) ኢትዮጵያ - አገረ እግዚአብሔር
-- [Open playlist on YouTube](https://youtube.com/playlist?list=PLvwPosBw4ofKk1CJEr1wyDR41UEpdL8Rn&si=_IhVp7qmghVXQ5Sj)
+## Featured Interviews
 
-### 9) ቅድስት ቤተ ክርስቲያን
-- [Open playlist on YouTube](https://youtube.com/playlist?list=PLvwPosBw4ofJ0rOO_L7ukNglpRuUiY3tR&si=BnhxQVlVBxjWgLKe)
+<div class="card-grid">
+
+  <a class="yt-card" href="https://youtu.be/Nw00V-3Omxw?si=CvohJQBVDhb7FZxL" target="_blank" rel="noopener">
+    <div class="yt-card-title">"እነሱ ይፈርሳሉ እንጂ ቤተክርስቲያን አትፈርስም"  ዶ/ር መስከረም ለቺሳ</div>
+    <div class="yt-card-meta">Episode</div>
+  </a>
+
+  <a class="yt-card" href="https://youtu.be/FfAOBU4GwmU?si=XJLcfxHxKH3WT4Rz" target="_blank" rel="noopener">
+    <div class="yt-card-title">“የሰው አገር አምላክ የምናመልከው ማን እዳ ስለጣለብን ነው?” (ቆይታ ከመስከረም ለቺሣ (ዶ/ር) ጋር)</div>
+    <div class="yt-card-meta">Episode</div>
+  </a>
+
+  <a class="yt-card" href="https://youtu.be/lfwJDB23QKc?si=QHf0xJDw_q0zCKKk" target="_blank" rel="noopener">
+    <div class="yt-card-title">“ፈላስፋው ሔሮዲተስ ኢትዮጵያን የፍትህ ሀገር ይላታል"በዶ/ር መስከረም ለቺሳ</div>
+    <div class="yt-card-meta">Episode</div>
+  </a>
+ 
+</div>
