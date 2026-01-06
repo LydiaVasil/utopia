@@ -23,8 +23,8 @@ An interdisciplinary course exploring utopian thought, history, and its connecti
 Go to Lessons in the sidebar and begin with Lesson 1.
 
 <p>
-  <a class="btn btn-primary" href="{{ '/enroll' | relative_url }}">
-    Register / Enroll
-  </a>
+  <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLScn_l0wPZAjRa-IPayFY8H25Uao0GucrSwA2NU-zNkFdD5TSw/viewform?usp=publish-editor" target="_blank" rel="noopener">
+  Register / Enroll
+</a>
 </p>
 
