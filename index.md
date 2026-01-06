@@ -13,3 +13,6 @@ Welcome to Utopia Media website.
 
 - Go to **Lessons** for the course sequence
 - Go to **Other Videos** for older/standalone videos
+<a class="btn btn-primary" href="{{ '/enroll' | relative_url }}">
+  Register / Enroll
+</a>
