@@ -16,4 +16,6 @@ Click below to register your interest:
 </a>
 
 ## Questions?
-Email: <a href="mailto:LydiaVasil24@gmail.com">Send us an Email</a>
+Email: <a href="mailto:utopiapress12@gmail.com">Send us an Email</a>
+Phone: 0978 21 22 23
+Telegram : https://t.me/Utopiaprintingpress
